@@ -1,7 +1,7 @@
 # 作图要领 matplotlib.pyplot
 * General Setting
-  * define the figure size (h, w)
-			plt.figure(figsize=(h, w))
+  * define the figure size (h, w) 
+  - plt.figure(figsize=(h, w))
   
   * add grid
     
