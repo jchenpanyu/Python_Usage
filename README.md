@@ -1,5 +1,5 @@
 # matplotlib.pyplot
-* General Setting
+* **General Setting**
   * define the figure size (h, w)  
   *plt.figure(figsize=(h, w))*
   * set background grid  
