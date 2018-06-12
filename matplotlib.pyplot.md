@@ -6,8 +6,8 @@
 * set the x, y lim  
   *plt.xlim(x_low, x_up)*  
   *plt.ylim(y_low, y_up)*
-* set x,y label  
-  *plt.xlabel('x_label)*
+* set x, y label  
+  *plt.xlabel('x_label)*  
   *plt.ylabel('y_label)*
 * set plot title  
   *plt.title('title')*
