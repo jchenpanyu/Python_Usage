@@ -12,3 +12,9 @@
   *plt.ylabel('y_label)*
   * set plot title  
   *plt.title('title')*
+
+* **1D plot**
+  * plot 1D data, while x and y list  
+  *plt.plot(x,y)*
+  * plot style  
+  *plt.plot(x,y, color=str, marker=str, linestyle=str, linewidth=int, markersize=int)*
