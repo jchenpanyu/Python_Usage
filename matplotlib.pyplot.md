@@ -15,6 +15,5 @@
 # 1D plot
 * plot 1D data, while x and y list  
   *plt.plot(x,y)*
-* plot style  
+* plot [style](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html)  
   *plt.plot(x,y, color=str, marker=str, linestyle=str, linewidth=int, markersize=int)*
-  ![](https://github.com/jchenpanyu/Python_Usage/blob/master/picture/matplotlib_001.jpg)
