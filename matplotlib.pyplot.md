@@ -1,4 +1,4 @@
-# General Setting**
+# General Setting
 * define the figure size (h, w)  
   *plt.figure(figsize=(h, w))*
 * set background grid  
@@ -12,7 +12,7 @@
 * set plot title  
   *plt.title('title')*
 
-# 1D plot**
+# 1D plot
 * plot 1D data, while x and y list  
   *plt.plot(x,y)*
 * plot style  
