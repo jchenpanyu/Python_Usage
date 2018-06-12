@@ -1,8 +1,6 @@
 # matplotlib.pyplot
-* General Setting
-  - define the figure size (h, w)  
+## General Setting
+  ### define the figure size (h, w)  
   *plt.figure(figsize=(h, w))*
-  - set background grid  
+  ### set background grid  
   *plt.grid(True)*
-    
-* 一维数据做图
