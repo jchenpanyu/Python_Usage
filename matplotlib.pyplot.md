@@ -17,3 +17,4 @@
   *plt.plot(x,y)*
 * plot style  
   *plt.plot(x,y, color=str, marker=str, linestyle=str, linewidth=int, markersize=int)*
+  ![](https://github.com/jchenpanyu/Python_Usage/blob/master/picture/matplotlib_001.jpg)
