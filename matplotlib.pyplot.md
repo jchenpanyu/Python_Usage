@@ -3,7 +3,7 @@
   *plt.figure(figsize=(h, w))*
 * sub-plot set up  
   *plt.subplot(row_num, colunm_num, subplot_ID)*  
-  or
+  or  
   *fig = plt.figure()*  
   *ax = fig.add_subplot(row_num, colunm_num, subplot_ID)*  
 * set background grid  
