@@ -6,6 +6,10 @@
 * set the x, y lim  
   *plt.xlim(x_low, x_up)*  
   *plt.ylim(y_low, y_up)*
+* set plot scale  
+  *plt.xscale()*  
+  *plt.yscale()*  
+  *avaialbe tag: 'linear', 'log', 'logit', 'symlog'*  
 * set x, y label  
   *plt.xlabel('x_label)*  
   *plt.ylabel('y_label)*
