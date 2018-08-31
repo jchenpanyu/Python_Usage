@@ -20,6 +20,8 @@
   *plt.ylabel('y_label)*
 * set plot title  
   *plt.title('title')*
+* turn off axis
+  * plt.axis('off')
 
 # 1D plot
 * plot 1D data, while x and y list  
